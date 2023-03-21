@@ -4,7 +4,7 @@ Mais um projeto proposto no curso [The complete 2023 web development bootcamp](h
 
 O objetivo desta aplicação é treinar nosso conhecimento e domínio sobre o DOM, manipulação de eventos e manipulação de áudio. A aplicação apresenta sons de bateria, que são reproduzidos ao clicar ou pressionar os botões correspondentes.
 
-Você pode acessar a aplicação [aqui]().
+Você pode acessar a aplicação [aqui](https://acgoularthub.github.io/Drum-kit/).
 
 ## Tecnologias utilizadas
 
